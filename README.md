@@ -1,5 +1,4 @@
-# SPOTR
-<h1>SPOTR: Spatio-temporal Pooling One-Token Reconstruction for Universal Physiological Signal Self-supervised Learning</h1> 
+# SPOTR: Spatio-temporal Pooling One-Token Reconstruction for Universal Physiological Signal Self-supervised Learning
 
 ## Overview
 
