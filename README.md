@@ -1,5 +1,5 @@
 # SPOTR
-[IJCAI 2026] SPOTR: Spatio-temporal Pooling One-Token Reconstruction for Universal Physiological Signal Self-supervised Learning
+<h1>SPOTR: Spatio-temporal Pooling One-Token Reconstruction for Universal Physiological Signal Self-supervised Learning</h1> 
 
 ## Overview
 
@@ -15,6 +15,10 @@ We propose **SPOTR** (**S**patio-temporal **P**ooling **O**ne-**T**oken **R**eco
 
 ## Method
 
+<p align="center">
+  <img src="figures/our_model.png" width="95%" alt="Overview of SPOTR">
+</p>
+
 SPOTR contains three main components:
 
 1. **ST Compactor**
@@ -25,3 +29,10 @@ SPOTR contains three main components:
    Reconstructs the original physiological signal from mask tokens conditioned only on the single global token.
 
 This design forces reconstruction to rely on globally organized information instead of local visible context, reducing shortcut learning and improving representation transfer.
+
+
+
+## Citation
+
+If you find this project useful, please consider citing our paper:
+
